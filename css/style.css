@@ -38,7 +38,6 @@ header ul {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
  header li a:hover {
     color:#CC950B ;
   }
